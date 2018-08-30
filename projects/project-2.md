@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Roombrah.PNG
 title: Roombrah
-permalink: https://github.com/Au-Adrian
+permalink: projects/project-2
 # All dates must be YYYY-MM-DD format!
 date: 2017-9-10
 labels:
