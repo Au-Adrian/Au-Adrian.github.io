@@ -21,7 +21,7 @@ To give you a flavor of the game, here is an excerpt from one run:
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
+You open your eyes and go back to sleep, and you are greeted by an unfamiliar ceiling.
 Startled, you get to your feet and quickly scan your surroundings. It's
 dark except for the stream of light coming from a crack on the only boarded
 window in the room. You try to peek through the crack, but you cannot see
