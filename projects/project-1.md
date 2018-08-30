@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Airhockey.PNG
 title: EZ Air hockey
-permalink: projects/airhockey
+permalink: https://github.com/Au-Adrian
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-010
 labels:
