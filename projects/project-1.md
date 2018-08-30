@@ -14,7 +14,7 @@ summary: My team developed an air hockey simulation using the EZJava class
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Airhocke.PNG">
+  <img class="ui image" src="../images/Airhockey.PNG">
 </div>
 
 This project was made in my Introduction to Computer Science 111 class at the University of Hawaii at Manoa. The project is an air hockey simulator that could be played on your computer when you ran the program. After running the program a seperate window would appear showing 2 strikers and the puck. The strikers could be interacted with through the computer by using the "w,a,s,d" keys and the "i,j,k,l" keys. The rules followed similar to basic air hockey, you must use the striker to defend your goal or try to score the puck inside of your opponent's goal.
