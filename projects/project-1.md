@@ -5,7 +5,7 @@ image: images/Airhockey.PNG
 title: EZ Air hockey
 permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
-date: 2017-09-010
+date: 2017-09-10
 labels:
   - Java
   - EZJava
