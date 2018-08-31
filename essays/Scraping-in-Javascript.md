@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Scraping my knee in Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2018-08-30
 labels:
   - Software Engineering
-  - Learning
+  - JavaScript
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
