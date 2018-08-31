@@ -9,15 +9,14 @@ labels:
   - JavaScript
 ---
 
+
+This past week was my first week back to school for my second year of college majoring in computer science. On the Tuesday of that first week I had a class called ICS 311 Software Engineering. In this class the teacher talked about how we would be dealing with JavaScript and how we would be tested on it by the following week. This meant I would need to transition from having no knowledge about the language to being familiar with writing it in one week. To do so we were prompted to complete the introductory section of JavaScript on the "freecodecamp" website which according to the website was projected to be 10 hours in length. 
+
 <img class="ui tiny left circular floated image" src="../images/codecampers.png">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+During my freshman year I learned the Java language and practiced it throughout the year. Being that I needed to learn a new language in one week caused me to be nervous but also engaged in the challenge. I was confident that my prior Java experience would significantly help in learning a new programming language. It turns out that I couldn't have been more right. In the introductory stages, Java and JavaScript seemed almost identical. It felt as if I was being taught what I had already knew. The two languages are very similar, which turned out to be a good thing and a bad thing. A good thing because it was easier for me to pick up but a bad thing at the same time because I was so used to writing Java code that when I wrote JavaScript I still had old habits that were very minor differences between the two languages, for example variable declaration.
 
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
+Considering the fact that I still have so much to learn about the JavaScript language, I am still unsure of whether or not JavaScript is a good language in the software engineering perspective, but in my opinion, so far so good. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Being tested on a language that was new to me through various coding challenges and only having a certain amount of time to finish. So this is athletic software engineering. The practice is definitely nerve-wracking but at the same time extremely effective. It builds confidence in my abilities to solve problems through writing code. I found practice WODs to be helpful for becoming more familiar with writing JavaScript code. I feel that the athletic software engineering practice is a good way to learn, but like anything else, you get what you put in. The only way to become an athletic software engineer is through practice. 
 
