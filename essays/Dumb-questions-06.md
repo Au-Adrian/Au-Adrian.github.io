@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-published: false
-title: The difficult things will always be difficult
+published: true
+title: What kind of question deserves an answer?
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2018-09-07
 labels:
   - Engineering
 ---
