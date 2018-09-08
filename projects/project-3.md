@@ -18,5 +18,5 @@ This simulation was my first project that I created in Introduction to Computer 
 
 During this project I was exposed to the different kinds of things that you could do in Java. This project might be the most important one to me so far because it was the first exposure that I had to coding and grasping a basic understanding of simple tools such as for loops and if statements. 
 
-From this project I learned about what kind of mentality you need when approaching code. I also learned more about myself, I found out that I wanted to learn more about the discipline and see where it takes me. 
+From this project I learned about what kind of mentality you need when approaching code. Although a lot of it is challenging, it is amazing to see that the only limit that you have while coding is your imagination. I also learned more about myself, I found out that I wanted to learn more about the discipline and see where it takes me. 
 You can watch a video of the simulation [here](https://www.youtube.com/watch?v=D99bxXE2I44)  
