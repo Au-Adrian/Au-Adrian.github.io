@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Back to School
-This past week was my first week back to school for my second year of college majoring in computer science. On the Tuesday of that first week I had a class called ICS 311 Software Engineering. In this class the teacher talked about how we would be dealing with JavaScript and how we would be tested on it by the following week. This meant I would need to transition from having no knowledge about the language to being familiar with writing it in one week. To do so we were prompted to complete the introductory section of JavaScript on the "freecodecamp" website which according to the website was projected to be 10 hours in length. 
+This past week was my first week back to school for my second year of college majoring in computer science. On the Tuesday of that first week I had a class called ICS 314 Software Engineering. In this class the teacher talked about how we would be dealing with JavaScript and how we would be tested on it by the following week. This meant I would need to transition from having no knowledge about the language to being familiar with writing it in one week. To do so we were prompted to complete the introductory section of JavaScript on the "freecodecamp" website which according to the website was projected to be 10 hours in length. 
 
 
 <img class="ui medium left floated image" src="../images/codecampers.png">
