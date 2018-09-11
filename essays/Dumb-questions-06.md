@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: What kind of question deserves an answer?
+title: What kind of question deserves an answer??
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-07
 labels:
