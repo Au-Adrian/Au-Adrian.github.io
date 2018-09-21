@@ -22,8 +22,11 @@ My biggest hurdle in learning my first coding standards was learning where to pl
 
 
 ## ESLINT give me a hint
-Currently, I am taking ICS 314 Software Engineering, which has introduced a new coding standard known as ESLINT. So far I have found that adhering to most of the coding standards is nothing major because I have seen it before in previous classes like Intro to CS II. One thing I am not to fond about that takes place in ESLINT is that it shows errors as soon as you finish writing your line of code. This can bother me because I can create a new function and I will already receive an error about “not using the function” when I haven’t even finished writing the function. These minute errors give me sudden urges to hover my mouse over that red squiggly and try to correct it so that I can get the good old green check mark, which essentially can inhibit thought process. 
+Currently, I am taking ICS 314 Software Engineering, which has introduced a new coding standard known as ESLINT. So far I have found that adhering to most of the coding standards is nothing major because I have seen it before in previous classes like Intro to CS II. One thing I am not to fond about that takes place in ESLINT is that it shows errors as soon as you finish writing your line of code.
 
-<img class="ui medium left floated image" src="../images/whatisthefunction.png">
+<img class="ui medium middle floated image" src="../images/whatisthefunction.png">
+
+This can bother me because I can create a new function and I will already receive an error about “not using the function” when I haven’t even finished writing the function. These minute errors give me sudden urges to hover my mouse over that red squiggly and try to correct it so that I can get the good old green check mark, which essentially can inhibit thought process. 
+
 
 Overall, I believe coding standards are excellent to implement and every programmer should learn some form of coding standards early on in their career. It will be much better to get it out of the way in the beginning versus having to pick it up further down the line. 
