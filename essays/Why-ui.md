@@ -22,8 +22,8 @@ Take a trip back to calculus class when we were first introduced to derivatives,
 
 Efficiency is just one of the many software engineering benefits that come with ui frameworks. Not only does a framework make things easier, it also makes things look a lot better, which I believe is appreciated by the majority. Take a look at the difference in these pictures here, you can probably guess which webpage was created through raw html and css and the webpage that has semantic ui integrated into it. I’m sure my point is coming across now. Not only does the page with semantic ui look significantly better, but the code required to make these changes was miniscule and not complex at all!
 
-  <img class="ui medium middle floated image" src="../images/rawhtml.png">
-  <img class="ui medium middle image" src="../images/semantic.png">
+  <img class="ui large middle floated image" src="../images/rawhtml.png">
+  <img class="ui large middle image" src="../images/semantic.png">
 
 
 
