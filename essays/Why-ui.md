@@ -27,7 +27,7 @@ Efficiency is just one of the many software engineering benefits that come with 
 
 
 
-In conclusion, learning new languages and frameworks will always be a benefit to any programmer, even though it may seem like a daunting test. Regardless, programmers should always be encouraged to putting in the extra time and effort so that they can begin to work smarter, not harder.
+In conclusion, learning new languages and frameworks will always be a benefit to any programmer, even though it may seem like a daunting task. Regardless, programmers should always be encouraged to putting in the extra time and effort so that they can begin to work smarter, not harder.
 
 
 
