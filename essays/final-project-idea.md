@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: "Rate My Classes"
 date: 2018-10-30
 labels:
