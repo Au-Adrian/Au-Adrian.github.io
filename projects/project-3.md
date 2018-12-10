@@ -5,7 +5,7 @@ image: images/TaroFarmer.PNG
 title: Taro Farmer
 permalink: projects/project-3
 # All dates must be YYYY-MM-DD format!
-date: 2017-08-20
+date: 2018-08-20
 labels:
   - Java
   - EZJava
