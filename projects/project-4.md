@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: images/TaroFarmer.PNG
+image: images/SUBMIT.PNG
 title: Manoa Fix It
 permalink: projects/project-4
 # All dates must be YYYY-MM-DD format!
@@ -14,15 +14,23 @@ labels:
 summary: A problem hotline app specific to University of Hawaii that I developed in 314 Software Engineering
 ---
 
-<img class="ui image" src="../images/TaroFarmer.PNG">
+
 
 The root of this project came from the fact that the University of Hawaii at Manoa has an existing problem hotline that needs to be called to report a problem. This process takes time and is inconvenient to the student and ends up discouraging the student from reporting the problem. Our solution was to create an application that was easy to use so that students around the campus would be encouraged to report problems. We did this by making the application mobile friendly, meaning that the application functioned well on a cell phone. The application is run on the internet, but we wouldn't want students to need to pull out their computers just to report a problem. We created this app with the belief that students should be able to submit issues from their handheld devices in less than 2 minutes. 
 
+<img class="ui image" src="../images/SIGNLANDING.PNG">
+
 Upon first visiting our application you are greeted with our landing page, where it first prompts you with the option to sign in or sign up if you have not made an account. 
+
+<img class="ui image" src="../images/SUBMITLANDING.PNG">
 
 After signing in the options to sign in or sign up is replaced with the option to "Submit an Issue". We made it this way so that our users would be focused on doing what they came to do, reporting the issue that they found. 
 
+<img class="ui image" src="../images/3.PNG">
+
 On the top left you can see a navigation bar which holds other features of our application. As you can see from the picture, users have the ability to submit an issue, giving it a title, a description, and even tags. Our feed page shows a list of issues that other users may have posted. Users can also see the issue's status, and even drop a like if the user agrees with the issue. Upon clicking on an isssue, you are brought to the issue page where users are given an option to reply to another user's issue. The screenshots of the submit, feed, and issue page all came from a mobile device, so you can see how user-friendly our application is. 
+
+<img class="ui image" src="../images/MAP.PNG">
 
 The special sauce we added to our project was the use of an active map which would set a marker to where a user submits an issue. While viewing the map you can see other user's issues and the status of their issue according to the color. Although this is a cool feature that some enjoy being able to use, the only way we could get it to work is if our users allowed us to access their location while using the app so that we could mark it on the map. While getting user feedback from the community we learned that there are a few users who prefer to keep their locations private when using online applications. 
 
