@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SUBMITLANDING.PNG
+image: images/SUBMITS.PNG
 title: Manoa Fix It
 permalink: projects/project-4
 # All dates must be YYYY-MM-DD format!
